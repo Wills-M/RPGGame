@@ -1,0 +1,11 @@
+﻿  banshee.cpp
+  blackshuck.cpp
+  enemy.cpp
+  hero.cpp
+  kelpie.cpp
+  main.cpp
+c:\users\wills\documents\school\cs172\hw5\hw5\main.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  siren.cpp
+  willowisp.cpp
+  Generating Code...
+  HW5.vcxproj -> C:\Users\wills\Documents\School\CS172\HW5\Debug\HW5.exe
